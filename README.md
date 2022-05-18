@@ -9,10 +9,11 @@
 
 <br><br>
 
+<!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br><br>
-<!-- 
+
 <div align="center">
   <a href="https://github.com/felipebmuniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebmuniz&show_icons=true&theme=dark" alt="Felipe Muniz stats"/>
