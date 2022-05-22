@@ -9,7 +9,7 @@
 
 <br><br>
 
-<!-- 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br><br>
@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebmuniz&show_icons=true&theme=dark" alt="Felipe Muniz stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebmuniz&layout=compact&theme=dark" alt="Felipe Muniz most languages"/>
 </div>
--->
+
 
 <br><br>
 
