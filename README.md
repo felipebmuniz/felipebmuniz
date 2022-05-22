@@ -5,7 +5,7 @@
 
 - 🌱 Graduando em Engenharia da Computação pela Universidade Federal do Ceará (UFC);
 - 🤔 Conhecimento em JavaScript, ReactJS, HTML, CSS;
-- ⚡ Estudando em foco ReactJs e React Native;
+- ⚡ Estudando em foco ReactJS, React Native, NextJS e TypeScript;
 
 <br><br>
 
