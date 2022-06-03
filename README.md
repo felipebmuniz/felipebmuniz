@@ -1,6 +1,6 @@
 <img align="right" height="390em" src="https://raw.githubusercontent.com/gist/felipebmuniz/b6311591b3859bdcedc48734a42257a0/raw/a68dc346d9ac89d0d4686c755be6795713745f26/githubcard.svg" />
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Felipe Muniz</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, me chamo Felipe Muniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebmuniz&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 Graduando em Engenharia da Computação pela Universidade Federal do Ceará (UFC);
