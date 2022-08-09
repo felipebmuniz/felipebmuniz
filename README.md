@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/felipebmuniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebmuniz&show_icons=true&theme=dark" alt="Felipe Muniz stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebmuniz&layout=compact&theme=dark" alt="Felipe Muniz most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebmuniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebmuniz&layout=compact&langs_count=6theme=dark" alt="Felipe Muniz most languages"/>
 </div>
 
 
