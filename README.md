@@ -1,4 +1,4 @@
-<img align="right" height="390em" src="./Card.png" />
+<img align="right" height="390em" src="./card-profile.png" />
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2rem"> -->
 <h1 align="left">Olá, me chamo Felipe Muniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebmuniz&color=yellow" alt="Profile views" /> </p>
